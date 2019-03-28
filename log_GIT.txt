@@ -1,0 +1,19 @@
+alunoces@L6MAQ8 MINGW32 ~/Desktop/Gcm (master)
+$ git log
+commit 72fe9b434e624600115a86391aa935b4476000ba (HEAD -> master)
+Author: Thiago Ferreira <thiagoferreira38@hotmail.com>
+Date:   Thu Mar 28 20:20:05 2019 -0300
+
+    tarefa terminada
+
+commit 644beed6287c9079a71d7e11299ab1cda0390c0c (origin/master)
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Mar 28 19:50:05 2019 -0300
+
+    O campos de preechimentos foram criados
+
+commit b5d756258a5917d29cd3a0b00c8b9be5caca71dd
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Mar 28 19:43:02 2019 -0300
+
+    Iniciando Desenvolvimento de Formulário versão 1.0.0
